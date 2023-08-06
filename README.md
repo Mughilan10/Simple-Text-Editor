@@ -11,3 +11,5 @@ This is a basic text editor implemented using Doubly Linked List data structure 
     >> s <filename> or S <filename> :to save the text to the file <filename> or it saves in the file *.txt if <filename> argument is not present
     >> o <filename> or O <filename> :to open the text in file <filename> or it opens the file *.txt if <filename> argument is not present
     >> x or X :to close the text editor
+
+Refer to "Project Report.pdf" to know more.
