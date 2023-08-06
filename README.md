@@ -1,5 +1,5 @@
 # Simple Text Editor
-This is a basic text editor implemented using Doubly Linked List data structure
+This is a basic text editor implemented using Doubly Linked List data structure in Python
 
 ## Run the .exe file and perform various actions in the text editor using the following commands
 
