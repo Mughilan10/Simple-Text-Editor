@@ -1,7 +1,7 @@
-# TextEditor
-This is a basic text editor which runs on the DLL(doubly linked list) data structure.
+# Simple Text Editor
+This is a basic text editor implemented using Doubly Linked List data structure
 
-#Commands used to run this Application
+# Run the .exe file and perform various actions in the text editor using the following commands
 
     >> i <char> or I <char> :to insert a character before the cursor
     >> l or L :to move the cursor to left
